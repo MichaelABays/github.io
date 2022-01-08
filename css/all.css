@@ -667,39 +667,39 @@ transition: all 0.5s ease-in-out;
 		background-size:44px 34px;
 	}
 	.footer-content .social li.pinterest a{
-		background-image: url(../images/icon_pn@x2.png);
+		background-image: url(../images/sql.png);
 		background-size:38px 38px;
 	}
 	.plagin_list li.li_1 a{
-		background-image: url(../images/icon_ps@x2.png);
+		background-image: url(../images/sql.png);
 		background-size:49px 42px;
 	}
 	.plagin_list li.li_2 a{
-		background-image: url(../images/icon_ai@x2.png);
+		background-image: url(../images/excel.png);
 		background-size:45px 42px;
 	}
 	.plagin_list li.li_3 a{
-		background-image: url(../images/icon_ld@x2.png);
+		background-image: url(../images/tableau.png);
 		background-size:40px 43px;
 	}
 	.plagin_list li.li_4 a{
-		background-image: url(../images/icon_fl@x2.png);
+		background-image: url(../images/powerpoint.png);
 		background-size:34px 42px;
 	}
 	.plagin_list li.li_5 a{
-		background-image: url(../images/icon_html@x2.png);
+		background-image: url(../images/python.png);
 		background-size:39px 55px;
 	}
 	.plagin_list li.li_6 a{
-		background-image: url(../images/icon_wp@x2.png);
+		background-image: url(../images/r.png);
 		background-size:55px 55px;
 	}
 	.plagin_list li.li_7 a{
-		background-image: url(../images/icon_jq@x2.png);
+		background-image: url(../images/icon_html@x2.png);
 		background-size:87px 20px;
 	}
 	.plagin_list li.li_8 a{
-		background-image: url(../images/icon_seo@x2.png);
+		background-image: url(../images/powerbi.png);
 		background-size:60px 24px;
 	}
 	.box_contact span.email{
